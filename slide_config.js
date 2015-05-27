@@ -24,8 +24,8 @@ var SLIDE_CONFIG = {
   presenters: [{
     name: 'Phillipe Lopes',
     company: 'Programador<br>LEDS',
-    gplus: 'http://plus.google.com/1234567890',
-    twitter: '@yourhandle',
+    gplus: 'http://plus.google.com/+PhillipeLopes',
+    twitter: '@paflopes',
     www: 'http://paflopes.github.io',
     github: 'http://github.com/paflopes'
   }/*, {
